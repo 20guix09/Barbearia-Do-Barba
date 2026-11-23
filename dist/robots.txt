@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barbearia-do-barba-tga.guilhermelimad224341.chatgpt.site/sitemap.xml

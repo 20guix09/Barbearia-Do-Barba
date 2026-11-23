@@ -1,0 +1,157 @@
+{
+  "name": "Barbearia do Barba",
+  "tagline": "Original como deve ser.",
+  "url": "https://barbearia-do-barba-tga.guilhermelimad224341.chatgpt.site",
+  "booking": "https://agendaservico.com/barbeariadobarba",
+  "instagram": "https://www.instagram.com/barbeariadobarbatga/",
+  "maps": "https://maps.app.goo.gl/JQvNQBkxKryMUyE39",
+  "whatsapp": "5565996208390",
+  "phone": "(65) 99620-8390",
+  "address": {
+    "street": "Rua Sebastião Barreto, 48",
+    "district": "Centro",
+    "city": "Tangará da Serra",
+    "state": "MT",
+    "postalCode": "78300-070"
+  },
+  "hours": {
+    "label": "Segunda a sábado",
+    "opens": "08:30",
+    "closes": "19:30",
+    "timezone": "America/Cuiaba",
+    "note": "Horário local de Tangará da Serra."
+  },
+  "verifiedOn": "2026-11-23",
+  "professionals": [
+    "Isaque",
+    "José",
+    "Carlos",
+    "Alisson"
+  ],
+  "priceGroups": [
+    "José, Carlos e Alisson",
+    "Isaque"
+  ],
+  "services": [
+    {
+      "name": "Corte",
+      "description": "Corte e acabamento para o seu cabelo.",
+      "duration": "30 min",
+      "prices": [
+        50,
+        70
+      ]
+    },
+    {
+      "name": "Barba",
+      "description": "Desenho, alinhamento e cuidado com a barba.",
+      "duration": "30 min",
+      "prices": [
+        50,
+        70
+      ]
+    },
+    {
+      "name": "Corte + barba",
+      "description": "Cabelo e barba no mesmo atendimento.",
+      "duration": "1 hora",
+      "prices": [
+        100,
+        130
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "name": "Sobrancelha",
+      "price": 25
+    },
+    {
+      "name": "Limpeza de nariz",
+      "price": 25
+    },
+    {
+      "name": "Limpeza de orelha",
+      "price": 25
+    },
+    {
+      "name": "Hidratação",
+      "price": 25
+    },
+    {
+      "name": "Sobrancelha + limpeza de nariz",
+      "price": 45
+    },
+    {
+      "name": "Limpeza de nariz + orelha",
+      "price": 40
+    },
+    {
+      "name": "Sobrancelha + limpeza de nariz e orelha",
+      "price": 60
+    },
+    {
+      "name": "Selagem",
+      "price": 50,
+      "from": true
+    },
+    {
+      "name": "Sericina",
+      "price": 150
+    },
+    {
+      "name": "Pezinho",
+      "price": 25
+    },
+    {
+      "name": "Tintura",
+      "price": 50
+    },
+    {
+      "name": "Limpeza de pele no nariz",
+      "price": 25
+    },
+    {
+      "name": "Limpeza de pele completa",
+      "price": 55
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/trabalho-1.webp",
+      "alt": "Cliente com corte e barba na Barbearia do Barba",
+      "label": "Corte e barba",
+      "source": "https://www.instagram.com/barbeariadobarbatga/reel/DVgm-42kUSP/",
+      "width": 640,
+      "height": 1136,
+      "position": "50% 32%"
+    },
+    {
+      "src": "assets/trabalho-3.webp",
+      "alt": "Corte masculino com degradê lateral e cabelo com mechas",
+      "label": "Corte e acabamento",
+      "source": "https://www.instagram.com/ibihain/p/DdFKoatnwhc/",
+      "width": 1000,
+      "height": 1333,
+      "position": "50% 40%"
+    },
+    {
+      "src": "assets/trabalho-5.webp",
+      "alt": "Detalhe do acabamento de barba realizado na barbearia",
+      "label": "Detalhes da barba",
+      "source": "https://www.instagram.com/ibihain/p/DdETZVTEVQU/",
+      "width": 1000,
+      "height": 1333,
+      "position": "50% 40%"
+    },
+    {
+      "src": "assets/atendimento-tratado.webp",
+      "alt": "Atendimento com secador no ambiente da Barbearia do Barba",
+      "label": "Aqui na barbearia",
+      "source": "https://www.instagram.com/barbeariadobarbatga/reel/DdE-SuMPC84/",
+      "width": 940,
+      "height": 1673,
+      "position": "50% 0"
+    }
+  ]
+}
