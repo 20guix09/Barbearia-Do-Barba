@@ -8,8 +8,8 @@
   "whatsapp": "5565996208390",
   "phone": "(65) 99620-8390",
   "address": {
-    "street": "Rua Sebastião Barreto, 48",
-    "district": "Centro",
+    "street": "Rua Sebastião Barreto 54s",
+    "district": "centro",
     "city": "Tangará da Serra",
     "state": "MT",
     "postalCode": "78300-070"
@@ -153,5 +153,6 @@
       "height": 1673,
       "position": "50% 0"
     }
-  ]
+  ],
+  "fullAddress": "Rua Sebastião Barreto 54s, centro, Tangará da Serra - MT"
 }
